@@ -1,9 +1,5 @@
 {
   "success": true,
-  "key": [
-    "vuithehaha",
-    "cauth",
-    "chan"
-  ],
-  "msg": "Key hợp lệ rồi nha bro",
+  "keys": ["vuithehaha", "cauth", "chan"],
+  "msg": "Key hợp lệ rồi nha bro"
 }
